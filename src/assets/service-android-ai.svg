@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="s1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#s1)" rx="20"/>
+  <g fill="#fff" opacity="0.9">
+    <rect x="36" y="36" width="568" height="120" rx="14" />
+    <rect x="36" y="176" width="260" height="140" rx="12" />
+    <rect x="316" y="176" width="288" height="140" rx="12" />
+  </g>
+  <text x="40" y="92" fill="#fff" font-size="28" font-family="Arial" font-weight="700">Android App Development</text>
+</svg>

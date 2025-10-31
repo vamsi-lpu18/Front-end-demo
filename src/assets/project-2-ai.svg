@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g2)" />
+  <g opacity="0.85">
+    <circle cx="920" cy="220" r="200" fill="#ffffff14" />
+    <g transform="translate(160,180) scale(1)">
+      <rect x="0" y="0" width="880" height="440" rx="28" fill="#ffffff12"/>
+      <g transform="translate(28,28)">
+        <rect x="0" y="0" width="240" height="120" rx="12" fill="#ffffff22"/>
+        <rect x="260" y="0" width="420" height="120" rx="12" fill="#ffffff10"/>
+        <rect x="0" y="140" width="680" height="220" rx="16" fill="#ffffff08"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(60,560)">
+    <text x="0" y="0" fill="#fff" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="700">Devskillquest</text>
+    <text x="0" y="40" fill="#fff" font-size="18" font-family="Arial, Helvetica, sans-serif">Interactive learning for devs</text>
+  </g>
+</svg>

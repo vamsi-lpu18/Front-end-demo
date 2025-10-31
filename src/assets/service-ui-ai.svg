@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="s3" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#s3)" rx="20"/>
+  <g fill="#fff" opacity="0.95">
+    <rect x="40" y="40" width="560" height="120" rx="14" />
+    <rect x="40" y="180" width="240" height="140" rx="12" />
+    <rect x="300" y="180" width="300" height="140" rx="12" />
+  </g>
+  <text x="44" y="96" fill="#fff" font-size="28" font-family="Arial" font-weight="700">UI / UX Design</text>
+</svg>
