@@ -4,6 +4,10 @@ A polished, responsive frontend showcasing AppDost’s site pages: Home, About, 
 
 ![Screenshot](public/vite.svg)
 
+## Live Demo
+
+- Netlify: https://apnadost-demo.netlify.app/
+
 ## Features
 
 - Modern layout with reusable UI components (Hero, Services, Stats, Features, Process)
